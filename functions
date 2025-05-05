@@ -1,0 +1,13 @@
+public class Main {
+    public static void main(String[] args){
+        fsoma(10, 15);
+        fsoma(100, 500);
+        fsoma(25, 78);
+    }
+
+    static void fsoma(int num1, int num2){
+        System.out.println(num1 + num2);
+    }
+    
+    //fsoma é o nome da função
+}
